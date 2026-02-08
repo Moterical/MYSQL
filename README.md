@@ -1,2 +1,3 @@
 # MYSQL
-SQL
+
+Learning MYSQL
